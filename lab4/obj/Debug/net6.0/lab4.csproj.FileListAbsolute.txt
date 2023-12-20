@@ -1,0 +1,14 @@
+C:\Users\vladg\source\repos\lab4\lab4\bin\Debug\net6.0\lab4.exe
+C:\Users\vladg\source\repos\lab4\lab4\bin\Debug\net6.0\lab4.deps.json
+C:\Users\vladg\source\repos\lab4\lab4\bin\Debug\net6.0\lab4.runtimeconfig.json
+C:\Users\vladg\source\repos\lab4\lab4\bin\Debug\net6.0\lab4.dll
+C:\Users\vladg\source\repos\lab4\lab4\bin\Debug\net6.0\lab4.pdb
+C:\Users\vladg\source\repos\lab4\lab4\obj\Debug\net6.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladg\source\repos\lab4\lab4\obj\Debug\net6.0\lab4.AssemblyInfoInputs.cache
+C:\Users\vladg\source\repos\lab4\lab4\obj\Debug\net6.0\lab4.AssemblyInfo.cs
+C:\Users\vladg\source\repos\lab4\lab4\obj\Debug\net6.0\lab4.csproj.CoreCompileInputs.cache
+C:\Users\vladg\source\repos\lab4\lab4\obj\Debug\net6.0\lab4.dll
+C:\Users\vladg\source\repos\lab4\lab4\obj\Debug\net6.0\refint\lab4.dll
+C:\Users\vladg\source\repos\lab4\lab4\obj\Debug\net6.0\lab4.pdb
+C:\Users\vladg\source\repos\lab4\lab4\obj\Debug\net6.0\lab4.genruntimeconfig.cache
+C:\Users\vladg\source\repos\lab4\lab4\obj\Debug\net6.0\ref\lab4.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dhFZu/Ikr/YuP5IqIV2srdWY3ZoO7sQLtknDJwYa1zG8w7iwOM4LaLno2IU8mISeQwK5MVTGdGhi18/b1WaQ8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladg\\source\\repos\\Lab4\\lab4\\lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
